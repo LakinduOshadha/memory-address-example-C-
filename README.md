@@ -1,4 +1,4 @@
-# memory-address-example-C-
+# memory-address-example-Cpp
 
 --- Pointers ---
 Pointers are symbolic representation of addresses. They enable programs to simulate call-by-reference
